@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: 0_Tutorial_1
+  m_EditorClassIdentifier: 
+  _cardID: 4
+  _cardName: Tutorial
+  _cardSprite: 27
+  _cardDialogue: "Akademiye ho\u015F geldin, baz\u0131 \xF6nemli kararlar alarak
+    kendi hikayeni yazacaks\u0131n! :)"
+  _leftAnswer: "Farkl\u0131 kararlar"
+  _rightAnswer: Kaderin senin elinde
+  _trueAnswer: 0
+  _isMinigame: 0
+  LeftEffect: 
+  RightEffect: 
+  ses: {fileID: 0}
+  _magicPowerLeft: 0
+  _knowledgeLeft: 0
+  _sociabilityLeft: 0
+  _healthLeft: 0
+  _magicPowerRight: 0
+  _knowledgeRight: 0
+  _sociabilityRight: 0
+  _healthRight: 0
+  _cardAudioClip: {fileID: 8300000, guid: 46f7e1de1fe53004c94f2f213a28f7c7, type: 3}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: 6_SihirliBahce
+  m_EditorClassIdentifier: 
+  _cardID: 0
+  _cardName: "Sihirli Bah\xE7e"
+  _cardSprite: 20
+  _cardDialogue: "Akademi'nin sihirli hayvanat bah\xE7esine gitme f\u0131rsat\u0131n
+    var."
+  _leftAnswer: "Arkada\u015Flar\u0131n\u0131 g\xF6r"
+  _rightAnswer: "Vakit ge\xE7ir"
+  _trueAnswer: 0
+  _isMinigame: 1
+  _magicPowerLeft: 10
+  _knowledgeLeft: 0
+  _sociabilityLeft: 5
+  _healthLeft: 5
+  _magicPowerRight: 5
+  _knowledgeRight: 5
+  _sociabilityRight: 10
+  _healthRight: 0

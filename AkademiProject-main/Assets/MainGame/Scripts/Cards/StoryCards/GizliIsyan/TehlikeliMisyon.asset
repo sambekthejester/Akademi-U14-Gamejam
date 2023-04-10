@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: TehlikeliMisyon
+  m_EditorClassIdentifier: 
+  _cardID: 3
+  _cardName: Tehlikeli Misyon
+  _cardSprite: 23
+  _cardDialogue: "\u0130syanc\u0131 grubun tehlikeli bir misyonu var"
+  _leftAnswer: Reddet
+  _rightAnswer: Kabul et
+  _trueAnswer: 2
+  _isMinigame: 0
+  _magicPowerLeft: 0
+  _knowledgeLeft: 0
+  _sociabilityLeft: -5
+  _healthLeft: 5
+  _magicPowerRight: 10
+  _knowledgeRight: 0
+  _sociabilityRight: 10
+  _healthRight: -5

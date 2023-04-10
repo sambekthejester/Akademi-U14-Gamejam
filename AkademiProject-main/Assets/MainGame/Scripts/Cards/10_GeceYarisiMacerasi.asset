@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: 10_GeceYarisiMacerasi
+  m_EditorClassIdentifier: 
+  _cardID: 0
+  _cardName: "Geceyar\u0131s\u0131 Maceras\u0131"
+  _cardSprite: 9
+  _cardDialogue: "Arkada\u015Flar\u0131nla geceyar\u0131s\u0131 maceras\u0131na \xE7\u0131kmaya
+    ne dersin?"
+  _leftAnswer: Ben macera sevmem
+  _rightAnswer: Macera beni bekler
+  _trueAnswer: 0
+  _isMinigame: 1
+  _magicPowerLeft: 0
+  _knowledgeLeft: 0
+  _sociabilityLeft: -5
+  _healthLeft: 10
+  _magicPowerRight: 5
+  _knowledgeRight: 0
+  _sociabilityRight: 10
+  _healthRight: -5

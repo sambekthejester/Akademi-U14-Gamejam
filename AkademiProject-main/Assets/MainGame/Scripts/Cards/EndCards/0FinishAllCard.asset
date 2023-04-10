@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: 0FinishAllCard
+  m_EditorClassIdentifier: 
+  _cardID: -1
+  _cardName: Bitti
+  _cardSprite: 2
+  _cardDialogue: "B\xFCt\xFCn kartlar\u0131 bitirdin."
+  _leftAnswer: "Gelecek in\u015F"
+  _rightAnswer: "Gelecek in\u015F"
+  _magicPowerLeft: 0
+  _knowledgeLeft: 0
+  _sociabilityLeft: 0
+  _healthLeft: 0
+  _magicPowerRight: 0
+  _knowledgeRight: 0
+  _sociabilityRight: 0
+  _healthRight: 0

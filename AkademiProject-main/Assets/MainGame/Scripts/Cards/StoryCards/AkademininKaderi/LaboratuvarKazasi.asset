@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: LaboratuvarKazasi
+  m_EditorClassIdentifier: 
+  _cardID: 1
+  _cardName: "Laboratuvar Kazas\u0131"
+  _cardSprite: 2
+  _cardDialogue: "Akademi'nin b\xFCy\xFC laboratuvar\u0131nda b\xFCy\xFCk bir kaza
+    meydana geldi."
+  _leftAnswer: "Yard\u0131m et"
+  _rightAnswer: "\u0130\u015Fi bilene b\u0131rak"
+  _trueAnswer: 2
+  _isMinigame: 0
+  _magicPowerLeft: 0
+  _knowledgeLeft: -5
+  _sociabilityLeft: -5
+  _healthLeft: 0
+  _magicPowerRight: 0
+  _knowledgeRight: 10
+  _sociabilityRight: 10
+  _healthRight: 0

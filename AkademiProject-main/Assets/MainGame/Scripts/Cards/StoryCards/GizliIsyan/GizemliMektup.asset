@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf8c9973a0262d643985355a5f10925b, type: 3}
+  m_Name: GizemliMektup
+  m_EditorClassIdentifier: 
+  _cardID: 3
+  _cardName: Gizemli Mektup
+  _cardSprite: 10
+  _cardDialogue: "Gizemli bir mektup ald\u0131n."
+  _leftAnswer: Mektubu yok et.
+  _rightAnswer: "Mektubu a\xE7"
+  _trueAnswer: 2
+  _isMinigame: 0
+  _magicPowerLeft: 5
+  _knowledgeLeft: 0
+  _sociabilityLeft: -5
+  _healthLeft: 10
+  _magicPowerRight: -5
+  _knowledgeRight: 0
+  _sociabilityRight: 5
+  _healthRight: -5
