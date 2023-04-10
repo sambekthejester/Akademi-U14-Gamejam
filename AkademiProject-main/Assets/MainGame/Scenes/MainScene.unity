@@ -1730,6 +1730,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1833459983}
     m_Modifications:
+    - target: {fileID: 5238068962391228930, guid: aafa9a49bc6a17f42b10ad484e78e619, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 5238068962548629056, guid: aafa9a49bc6a17f42b10ad484e78e619, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 5238068963275723093, guid: aafa9a49bc6a17f42b10ad484e78e619, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.67
+      objectReference: {fileID: 0}
     - target: {fileID: 5238068963450729197, guid: aafa9a49bc6a17f42b10ad484e78e619, type: 3}
       propertyPath: _minigameManager
       value: 

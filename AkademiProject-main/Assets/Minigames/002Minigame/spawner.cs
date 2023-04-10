@@ -20,12 +20,12 @@ namespace Mini1
 
         void spawnKare()
         {
-            Vector3 pos = new Vector3(Random.Range(-7.5f, 7.5f), Random.Range(-4f, 4f), 0f);
+            Vector3 pos = new Vector3(Random.Range(-7f, 8.7f), Random.Range(-4f, 3.5f), 0f);
             a = Instantiate(kare, pos, Quaternion.identity, this.transform);
         }
         void spawnKure()
         {
-            Vector3 pos = new Vector3(Random.Range(-7.5f, 7.5f), Random.Range(-4f, 4f), 0f);
+            Vector3 pos = new Vector3(Random.Range(-7f, 8.7f), Random.Range(-4f, 3.5f), 0f);
             b = Instantiate(kure, pos, Quaternion.identity, this.transform);
         }
         IEnumerator coroutineA()

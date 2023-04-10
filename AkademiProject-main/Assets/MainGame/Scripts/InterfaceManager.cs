@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class InterfaceManager : MonoBehaviour
 {
@@ -65,5 +66,15 @@ public class InterfaceManager : MonoBehaviour
             HealthIconImpact.transform.localScale = Vector3.zero;
             Debug.Log(_gameManager.Direction);
         }
+        CheckFillAmount();
+    }
+    public void CheckFillAmount()
+    {
+        if (MagicPowerIcon.fillAmount==0 || KnowledgeIcon.fillAmount ==0 || SociabilityIcon.fillAmount ==0 || HealthIcon.fillAmount ==0)
+        {
+            SceneManager.LoadScene(2);
+        }  
+         
+        
     }
 }

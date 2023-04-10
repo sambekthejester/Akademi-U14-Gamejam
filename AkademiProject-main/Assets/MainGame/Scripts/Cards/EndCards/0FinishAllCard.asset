@@ -18,6 +18,11 @@ MonoBehaviour:
   _cardDialogue: "B\xFCt\xFCn kartlar\u0131 bitirdin."
   _leftAnswer: "Gelecek in\u015F"
   _rightAnswer: "Gelecek in\u015F"
+  _trueAnswer: 0
+  _isMinigame: 0
+  LeftEffect: 
+  RightEffect: 
+  ses: {fileID: 0}
   _magicPowerLeft: 0
   _knowledgeLeft: 0
   _sociabilityLeft: 0
@@ -26,3 +31,4 @@ MonoBehaviour:
   _knowledgeRight: 0
   _sociabilityRight: 0
   _healthRight: 0
+  _cardAudioClip: {fileID: 0}

@@ -21,6 +21,9 @@ MonoBehaviour:
   _rightAnswer: "M\xFCrekkebi kullan"
   _trueAnswer: 0
   _isMinigame: 0
+  LeftEffect: 
+  RightEffect: 
+  ses: {fileID: 0}
   _magicPowerLeft: -5
   _knowledgeLeft: 0
   _sociabilityLeft: 10
@@ -29,3 +32,4 @@ MonoBehaviour:
   _knowledgeRight: 10
   _sociabilityRight: 0
   _healthRight: -5
+  _cardAudioClip: {fileID: 0}
