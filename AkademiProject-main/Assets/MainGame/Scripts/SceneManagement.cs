@@ -19,10 +19,7 @@ public class SceneManagement : MonoBehaviour
     {
         Application.Quit();
     }
-    public void R_ButonaBas()
-    {
-        SceneManager.LoadScene(0);
-    }
+   
     public void ButonaBasKaydir()
     {
         image.SetTrigger("Do");

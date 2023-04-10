@@ -15,7 +15,7 @@ MonoBehaviour:
   _cardID: -1
   _cardName: Bitti
   _cardSprite: 2
-  _cardDialogue: "B\xFCt\xFCn kartlar\u0131 bitirdin."
+  _cardDialogue: "B\xFCt\xFCn kartlar\u0131 bitirdin tebrikler !"
   _leftAnswer: "Gelecek in\u015F"
   _rightAnswer: "Gelecek in\u015F"
   _trueAnswer: 0
@@ -23,12 +23,12 @@ MonoBehaviour:
   LeftEffect: 
   RightEffect: 
   ses: {fileID: 0}
-  _magicPowerLeft: 0
-  _knowledgeLeft: 0
-  _sociabilityLeft: 0
-  _healthLeft: 0
-  _magicPowerRight: 0
-  _knowledgeRight: 0
-  _sociabilityRight: 0
-  _healthRight: 0
+  _magicPowerLeft: -20
+  _knowledgeLeft: -20
+  _sociabilityLeft: -20
+  _healthLeft: -20
+  _magicPowerRight: -20
+  _knowledgeRight: -20
+  _sociabilityRight: -20
+  _healthRight: -20
   _cardAudioClip: {fileID: 0}
